@@ -18,5 +18,4 @@ public class Item {
     private String name;
     private Double price;
     private Boolean isAvailable;
-    private Boolean a;
 }

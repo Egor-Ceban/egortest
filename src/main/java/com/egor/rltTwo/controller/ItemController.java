@@ -6,6 +6,7 @@ import com.egor.rltTwo.service.ItemService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
+//uselesscomment
 @RestController
 @RequestMapping("/items")
 @RequiredArgsConstructor
